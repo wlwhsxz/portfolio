@@ -26,6 +26,12 @@ function App() {
         />
         <button>Add To Do</button>
       </form>
+      <hr />
+      <ul>
+        {toDos.map((item, index) => (
+          <li key={index}>{item}</li> // *같은 component의 list를 render할 때, key prop을 설정해야 됨
+        ))}
+      </ul>
     </div>
   );
 }
