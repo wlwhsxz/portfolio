@@ -56,12 +56,7 @@ export default App;
 
 // 컴포넌트화
 
-App.js
-```
+- App.js
+- Movie.js
+- Detail.js
 
-```
-
-Movie.js
-```
-
-```
