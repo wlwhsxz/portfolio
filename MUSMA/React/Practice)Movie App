@@ -58,5 +58,6 @@ export default App;
 
 - App.js
 - Movie.js
+- Home.js
 - Detail.js
 
