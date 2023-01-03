@@ -1,0 +1,14 @@
+- debugging
+ - browser debugging
+ 
+ - grammar
+  - original type vs reference type
+  - shallow copy vs deep copy
+  - block & scope
+  - array spread
+  - nullish coalescing operator <-> logical or operator
+  - default parameter
+  - destructuring  
+  - optional chaining
+  - better way to use loop
+  - async await
