@@ -1,14 +1,18 @@
+https://www.notion.so/Javascript-6457451daf434e56bd8dc4c032e865d7
+
 - debugging
  - browser debugging
  
- - grammar
-  - original type vs reference type
-  - shallow copy vs deep copy
-  - block & scope
-  - array spread
-  - nullish coalescing operator <-> logical or operator
-  - default parameter
-  - destructuring  
-  - optional chaining
-  - better way to use loop
-  - async await
+- grammar
+ - original type vs reference type
+ - shallow copy vs deep copy
+ - block & scope
+ - array spread
+ - nullish coalescing operator <-> logical or operator
+ - default parameter
+ - destructuring  
+ - optional chaining
+ - better way to use loop
+ - async await
+  
+  
